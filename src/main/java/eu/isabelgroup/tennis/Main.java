@@ -1,4 +1,4 @@
-package main.java.eu.isabelgroup.tennis;
+package eu.isabelgroup.tennis;
 
 public class Main {
 

@@ -54,9 +54,3 @@ Then the server should win
 When the receiver wins a point \
 Then the score is 40:40
 
-  
-## Expectations
-- DDD are concepts modeled ?
-- unit tests ?
-- git history ?
-- (im)mutability ?
